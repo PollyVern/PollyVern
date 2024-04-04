@@ -24,7 +24,8 @@ My skills:
 - Depending on the project, I document in Notion or in XCode itself
 - Work with layouts through Sketch/Figma. Have experience in UI/UX design
 
-My last test-project in GitHub: https://github.com/PollyVern/WeatherApp
+🪴 My last project in AppStore: https://apps.apple.com/tr/app/cucullata-plant-care/id6463136584
+
+☁️ My last test-project in GitHub: https://github.com/PollyVern/WeatherApp
 
 
-My last project in AppStore: https://apps.apple.com/tr/app/cucullata-plant-care/id6463136584
