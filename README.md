@@ -10,7 +10,7 @@ My skills:
 - Developed and successfully launched in AppStore applications from scratch, optimizing design, choosing suitable architecture and logic for each project
 - Implemented Apple authorization logic
 - Monetized applications using Apple subscriptions and Yandex advertising
-- Worked with frameworks: AVFoundation, Vision, Lottie, AppTrackingTransparency, PDFKit, Kingfisher, WebKit
+- Worked with frameworks: AVFoundation, Vision, Lottie, AppTrackingTransparency, PDFKit, Kingfisher, WebKit, WidgetKit
 - Have experience with CoreData, Realm, Keychain, UserDefaults
 - Use GCD in work
 - Handled all api request requests through libraries/methods Alamorfire, URLSession, Moya using tools Proxyman, Postman
