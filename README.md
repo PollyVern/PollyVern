@@ -15,11 +15,12 @@ My skills:
 - Use GCD in work
 - Handled all api request requests through libraries/methods Alamorfire, URLSession, Moya using tools Proxyman, Postman
 - Use reactive framework for fast information transfer - Combine
-- Rationally apply architectures in work: Singleton, Builder, Factory method
+- Rationally apply architectures in work: Singleton, Builder, Factory method, Constructor, Fabric
 - Used architectural patterns: MVP, MVVM, Clean Swift
 - Follow the principles of SOLID, DRY, write clean and understandable code
 - Monitor memory leaks, rational initialization of variables/constants/classes/structures and their deinitialization
 - Worked with Firebase, AppsFlyer, Yandex and Qonversion analytics
+- Worked in Firebase with RemoteConfig and Storage
 - Connected pushes to the project, universal links and deeplinks with subsequent logic in the application
 - Depending on the project, I document in Notion or in XCode itself
 - Work with layouts through Sketch/Figma. Have experience in UI/UX design
