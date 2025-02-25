@@ -1,7 +1,7 @@
 <img src="https://github.com/PollyVern/PollyVern/blob/main/Content/Banner_PolinaBelovodskaya.png"></p>
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=2A0A42)](https://www.linkedin.com/in/polina-belovodskaya/) [![Leetcode Badge](https://img.shields.io/badge/Leetcode-Profile-informational?style=flat&logo=leetcode&logoColor=white&color=2A0A42)](https://leetcode.com/PollyVern/)
 
-Hi, I'm Polina an experienced iOS developer with over 5 years of creating innovative and user-friendly applications for different devices.
+Hi, I'm Polina an experienced iOS developer with over 6 years of creating innovative and user-friendly applications for different devices.
 
 My skills:
 
